@@ -1,0 +1,10 @@
+^E:\COMPUTER SCIENCE\SCHOOL COURSE\CSE 169\PA4-CLOTH SIMULATION\CMAKELISTS.TXT
+setlocal
+E:\Program\CMake\bin\cmake.exe "-SE:/computer science/school course/cse 169/PA4-Cloth Simulation" "-BE:/computer science/school course/cse 169/PA4-Cloth Simulation/build" --check-stamp-file "E:/computer science/school course/cse 169/PA4-Cloth Simulation/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

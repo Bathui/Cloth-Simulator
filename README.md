@@ -1,0 +1,44 @@
+# Cloth Simulation
+
+## Description
+This is a cloth simulation program that uses OpenGL to render a cloth. We can drop the cloth from a certain height and it will fall to the ground. We can also add wind to the cloth and it will blow in the direction of the wind. The other mode is a parachute system where we drop a crate with a parachute attached to it. And we can drop the crate from a certain height and it will fall to the ground with the parachute attached to it. 
+## Controls
+ - Space: Drop the cloth/crate
+ - R: Reset the simulation
+ - W: Add wind to the cloth/crate
+ - S: Remove wind from the cloth/crate
+ - A: Add wind to the left
+ - D: Add wind to the right
+ - Up Arrow: Add wind up
+ - Down Arrow: Add wind down
+ - Left Arrow: Add wind left
+ - Right Arrow: Add wind right
+ - ESC: Exit the program
+## Features
+    - Cloth simulation
+    - Parachute system
+    - Wind
+    - Collision detection
+    - Position-based correction
+    - Velocity damping
+    - Ground collision
+    - Reset simulation
+## How to Run
+
+```bash
+cmake -B build
+cmake --build build
+./build/cloth_simulation
+```
+
+## Example Videos
+
+### Cloth Simulation
+<video width="640" controls autoplay loop muted>
+  <source src="Result/Cloth.mp4" type="video/mp4">
+</video>
+
+### Parachute System
+<video width="640" controls autoplay loop muted>
+  <source src="Result/Parachute.mp4" type="video/mp4">
+</video>
