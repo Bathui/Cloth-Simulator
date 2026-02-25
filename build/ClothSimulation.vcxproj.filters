@@ -1,64 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\main.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Cloth.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\Cloth.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Particle.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\Particle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\SpringDamper.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\SpringDamper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Triangle.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\Triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Camera.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\Camera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\ParachuteSystem.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\ParachuteSystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Cube.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\Cube.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Shader.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\Shader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\glad.c">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_demo.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_demo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_draw.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_draw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_tables.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_tables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_widgets.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_widgets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_impl_glfw.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_impl_glfw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_impl_opengl3.cpp">
+    <ClCompile Include="E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_impl_opengl3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="E:\computer science\school course\cse 169\PA4-Cloth Simulation\CMakeLists.txt" />
+    <CustomBuild Include="E:\computer science\school course\cse 169\Cloth-Simulator\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{F3A9BA26-02A0-38D6-B170-380621416E4B}</UniqueIdentifier>
+      <UniqueIdentifier>{155C3F93-53DB-3F71-BF08-40146A226583}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

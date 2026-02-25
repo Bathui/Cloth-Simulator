@@ -108,7 +108,7 @@ int main () {
     Cloth myCloth(20, 20, 0.4f, 2.0f);
 
     // Scene 2: Parachute System
-    ParachuteSystem myParachute(glm::vec3(0.0f, 25.0f, 0.0f));
+    ParachuteSystem myParachute(glm::vec3(0.0f, 40.0f, 0.0f));
 
     glm::vec3 wind(0.0f, 0.0f, 0.0f); // A gentle breeze blowing back
 

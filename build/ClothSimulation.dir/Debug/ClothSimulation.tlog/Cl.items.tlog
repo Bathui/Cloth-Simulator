@@ -1,17 +1,17 @@
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\main.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\main.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Cloth.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\Cloth.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Particle.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\Particle.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\SpringDamper.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\SpringDamper.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Triangle.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\Triangle.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Camera.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\Camera.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\ParachuteSystem.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\ParachuteSystem.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Cube.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\Cube.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\Shader.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\Shader.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\glad.c;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\glad.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_demo.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui_demo.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_draw.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui_draw.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_tables.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui_tables.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_widgets.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui_widgets.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_impl_glfw.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui_impl_glfw.obj
-E:\computer science\school course\cse 169\PA4-Cloth Simulation\src\imgui_impl_opengl3.cpp;E:\computer science\school course\cse 169\PA4-Cloth Simulation\build\ClothSimulation.dir\Debug\imgui_impl_opengl3.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\main.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\main.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\Cloth.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\Cloth.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\Particle.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\Particle.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\SpringDamper.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\SpringDamper.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\Triangle.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\Triangle.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\Camera.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\Camera.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\ParachuteSystem.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\ParachuteSystem.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\Cube.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\Cube.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\Shader.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\Shader.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\glad.c;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\glad.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_demo.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui_demo.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_draw.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui_draw.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_tables.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui_tables.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_widgets.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui_widgets.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_impl_glfw.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui_impl_glfw.obj
+E:\computer science\school course\cse 169\Cloth-Simulator\src\imgui_impl_opengl3.cpp;E:\computer science\school course\cse 169\Cloth-Simulator\build\ClothSimulation.dir\Debug\imgui_impl_opengl3.obj
