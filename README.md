@@ -10,9 +10,6 @@ This is a cloth simulation program that uses OpenGL to render a cloth. We can dr
  - A: Add wind to the left
  - D: Add wind to the right
  - Up Arrow: Add wind up
- - Down Arrow: Add wind down
- - Left Arrow: Add wind left
- - Right Arrow: Add wind right
  - ESC: Exit the program
 ## Features
     - Cloth simulation
@@ -28,17 +25,13 @@ This is a cloth simulation program that uses OpenGL to render a cloth. We can dr
 ```bash
 cmake -B build
 cmake --build build
-./build/cloth_simulation
+./build/Debug/"Cloth Simulation.exe"
 ```
 
 ## Example Videos
 
 ### Cloth Simulation
-<video width="640" controls autoplay loop muted>
-  <source src="Result/Cloth.mp4" type="video/mp4">
-</video>
+![clothsimulation](/Result/ClothSimulation.gif)
 
 ### Parachute System
-<video width="640" controls autoplay loop muted>
-  <source src="Result/Parachute.mp4" type="video/mp4">
-</video>
+![Parachute](/Result/Parachute%20System.gif)
